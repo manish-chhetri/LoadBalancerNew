@@ -1,4 +1,4 @@
-package com.example.LoadBalancerNew.exception;
+package com.example.SampleLoadBalancer.exception;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

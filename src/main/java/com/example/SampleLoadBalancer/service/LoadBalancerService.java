@@ -1,9 +1,9 @@
-package com.example.LoadBalancerNew.service;
+package com.example.SampleLoadBalancer.service;
 
-import com.example.LoadBalancerNew.exception.LoadBalancerNotFoundException;
-import com.example.LoadBalancerNew.model.LoadBalancerModel;
-import com.example.LoadBalancerNew.model.Server;
-import com.example.LoadBalancerNew.pojo.Request.LoadBalancerRequest;
+import com.example.SampleLoadBalancer.exception.LoadBalancerNotFoundException;
+import com.example.SampleLoadBalancer.model.LoadBalancerModel;
+import com.example.SampleLoadBalancer.model.Server;
+import com.example.SampleLoadBalancer.pojo.Request.LoadBalancerRequest;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

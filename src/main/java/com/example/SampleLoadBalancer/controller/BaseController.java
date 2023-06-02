@@ -1,9 +1,9 @@
-package com.example.LoadBalancerNew.controller;
+package com.example.SampleLoadBalancer.controller;
 
-import com.example.LoadBalancerNew.model.LoadBalancerModel;
-import com.example.LoadBalancerNew.model.Server;
-import com.example.LoadBalancerNew.pojo.Request.LoadBalancerRequest;
-import com.example.LoadBalancerNew.service.LoadBalancerService;
+import com.example.SampleLoadBalancer.model.LoadBalancerModel;
+import com.example.SampleLoadBalancer.model.Server;
+import com.example.SampleLoadBalancer.pojo.Request.LoadBalancerRequest;
+import com.example.SampleLoadBalancer.service.LoadBalancerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.example.LoadBalancerNew.pojo.Request;
+package com.example.SampleLoadBalancer.pojo.Request;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
